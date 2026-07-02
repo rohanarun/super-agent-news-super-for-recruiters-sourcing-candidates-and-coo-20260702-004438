@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[scmedia.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5)",
+    "[securityaffairs.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF0gGoAUFVX3lxTFB6UHRiNmxJNFNCQ2NKMll5R0p0dTNoQ2x0X2FDMThrbERHcU5CU0plNG13aDhHX3Q1VXM3dGVIVmhPZHZsanFVeUdERjlpcUwwVHNRb3NoaHNVLV91N3FwemxFTWZUNEhMMlEzNF82MGNJN21taTYwa3hLVzM4R2NrQVdlQnRDUzE0WFlHRE4wLXVrbEg2RG1iRllBcG1LMjg0SXVENkRyTQ?oc=5)",
+    "[alm.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw?oc=5)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5)",
+    "[venturebeat.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNbC1wMmtLNzR1NjYtTzJ0VXhqWVpSWWhzY1pYSHJBRm1ZZ1M0aXhlZkZHUWxEMk5PbVhZbkcxYVU4b05sNjlVMHZROTZ2VWpFcC03dl8tejQtWEwzUThNa0U2YzRGcjRScDdHVV9BMmVpXzloNVVBaGJsQ3J1M0tmbzZNNDJjNWtpdkM3YWIzbVloNjZLdU1pVFFVUHMtWnAwMlFrLUtmN0NpaE5FSS1ReUdlQk83WFlQWnFOVGx6dDZWaWpSSWhFUjBn?oc=5)",
+    "[free.ai](https://free.ai/code/css/)"
+  ],
+  "design_plan": "rng_seed=42; AIDA pass; hero_line_width\u22481120px\u21922.4 lines; bento density validated via grid-auto-flow:dense; all competitors label-swept; CTA contrast checked (ink/white pills); CSS length>4200 chars; ambient layers fixed; animations GSAP-guarded",
+  "generated_at": "2026-07-02T00:44:45.547919+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who live inside LinkedIn, ATSs, calendars, and email. This page shows how Super\u2019s personal AI agents can operate real software, reuse a computer\u2011use cache for repeated sourcing and scheduling work, and avoid the brittle automation and security pitfalls increasingly reported across the agent market."
+}
